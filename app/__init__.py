@@ -9,6 +9,13 @@ jwt = JWTManager()
 
 def create_app():
     app = Flask(__name__)
+    @app.route("/")
+    def home():
+        return {
+            "message": "Welcome to LedgerLine API",
+            "status": "running",
+            "project": "LedgerLine"
+        }
 
     from config import Config
     Config.validate()
