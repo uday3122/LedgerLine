@@ -1,4 +1,4 @@
-﻿# LedgerLine — Money Movement with a Ledger You Can Prove
+# LedgerLine — Money Movement with a Ledger You Can Prove
 
 ## Project Overview
 
@@ -179,7 +179,7 @@ Use the PostgreSQL Internal Database URL for the web service. The application da
 Live application URL:
 
 ```text
-Replace this line with your actual Render public URL.
+https://ledgerline-api-cg5p.onrender.com
 ```
 
 ## API Documentation

@@ -1,4 +1,4 @@
-﻿# LedgerLine API Documentation
+# LedgerLine API Documentation
 
 ## Base URL
 
@@ -11,7 +11,7 @@ http://127.0.0.1:5000
 Deployed:
 
 ```text
-https://YOUR-RENDER-SERVICE.onrender.com
+https://ledgerline-api-cg5p.onrender.com
 ```
 
 Replace the deployed example with the actual Render public URL.
